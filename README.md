@@ -1,3 +1,5 @@
+>Thank you for your support! We will soon completely rewrite Construct Diet from scratch, using our new [pansy_ui package](https://github.com/oneLab-Projects/pansy_ui). At this time, you can view our new app-social network (in development): [click](https://github.com/oneLab-Projects/picbox).
+
 ![Logo](https://pp.userapi.com/c849120/v849120284/1c3e26/hNzyR7pitdI.jpg)
 
 # Construct Diet
